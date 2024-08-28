@@ -7,9 +7,9 @@
 - Opencv python
 ## Main-step
 #### 1.Channel-wise Early Fusion: 
-Please run early_
+Run early_
 #### 2.SLIC to Fine-grained Channel Contribution Assessment: 
-Please run SLIC.py
+Run SLIC.py
 #### 3.Saliency Sensing Tool: 
 As shown in Figure Method pipeline, we use the [EDN](https://arxiv.org/pdf/2012.13093). Please run "SOD_tool/EDN/edn_test.py"
 #### 4.Contribution-aware Fusion: 
