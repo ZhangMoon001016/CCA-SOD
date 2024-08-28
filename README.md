@@ -6,7 +6,7 @@
 
 
 ## Datasets: 
-The document contains nine publicly available RGB-D SOD datasets: NJU2K, NLPR, SIP, STERE, SSD, LFSD, DUT, ReDWeb-Sand COME15K-E. 
+The document contains nine available RGB-D SOD datasets: NJU2K, NLPR, SIP, STERE, SSD, LFSD, DUT, ReDWeb-S and COME15K-E. 
 - [Baidu Pan link] (https://pan.baidu.com/s/1YK_UmDA3J8jmDxT9AXKIvQ), with the code: 41eh
 ## Results
 - Coarse-grained saliency maps - [Baidu Pan link] (https://pan.baidu.com/s/1rIdL1Om0XAICeD4Z66ic-A), with the code: j5z2
