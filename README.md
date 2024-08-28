@@ -11,7 +11,7 @@
 - 3.Saliency Sensing Tool
 [EDN](https://arxiv.org/pdf/2012.13093)
 - 4.Contribution-aware Fusion
-[BBRF](https://ieeexplore.ieee.org/abstract/document/10006743) and [CAVER](https://ieeexplore.ieee.org/abstract/document/10015667)](https://arxiv.org/pdf/2012.13093)
+[BBRF](https://ieeexplore.ieee.org/abstract/document/10006743) and [CAVER](https://ieeexplore.ieee.org/abstract/document/10015667)
 ## Datasets: 
 The document contains nine available RGB-D SOD datasets: NJU2K, NLPR, SIP, STERE, SSD, LFSD, DUT, ReDWeb-S and COME15K-E. 
 - [Baidu Pan link] (https://pan.baidu.com/s/1YK_UmDA3J8jmDxT9AXKIvQ), with the code: 41eh
