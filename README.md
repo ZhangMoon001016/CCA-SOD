@@ -7,7 +7,7 @@
 - Opencv python
 ## Main-step
 #### 1.Channel-wise Early Fusion: 
-Run early_
+Run channel_wise_fusion.py
 #### 2.SLIC to Fine-grained Channel Contribution Assessment: 
 Run SLIC.py
 #### 3.Saliency Sensing Tool: 
