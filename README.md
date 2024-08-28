@@ -20,7 +20,7 @@ The document contains nine available RGB-D SOD datasets: NJU2K, NLPR, SIP, STERE
 - [Baidu Pan link] (https://pan.baidu.com/s/1YK_UmDA3J8jmDxT9AXKIvQ), with the code: 41eh
 ## Results
 - Coarse-grained saliency maps - [Baidu Pan link] (https://pan.baidu.com/s/1rIdL1Om0XAICeD4Z66ic-A), with the code: j5z2
-- Fine-grained saliency maps - [Baidu Pan link] (https://pan.baidu.com/s/1XARw0nSlj-M2OWuKO6ZG7A),with the code: drxa
+- Fine-grained saliency maps - [Baidu Pan link] (https://pan.baidu.com/s/1XARw0nSlj-M2OWuKO6ZG7A), with the code: drxa
 ## Acknowledgement
 Thanks to [EDN](https://arxiv.org/pdf/2012.13093), [BBRF](https://ieeexplore.ieee.org/abstract/document/10006743) and [CAVER](https://ieeexplore.ieee.org/abstract/document/10015667).
 
