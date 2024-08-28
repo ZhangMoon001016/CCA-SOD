@@ -1,4 +1,4 @@
-Thanks to EDN, BBRF and CAVER
+Thanks to EDN, BBRF and CAVER.
 
 For more details, see the following papers:
 - EDN: Salient object detection via extremely-downsampled network
