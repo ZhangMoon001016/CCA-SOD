@@ -6,12 +6,11 @@
 - pytorch
 - Opencv python
 ## Main-step
-- 1.Channel-wise Early Fusion
-- 2.SLIC to Fine-grained Channel Contribution Assessment
-#### 3.Saliency Sensing Tool  
-  As shown in Figure Method pipeline, we use the [EDN](https://arxiv.org/pdf/2012.13093). Please run "SOD_tool/EDN/edn_test.py"
-- 4.Contribution-aware Fusion
-[BBRF](https://ieeexplore.ieee.org/abstract/document/10006743) and [CAVER](https://ieeexplore.ieee.org/abstract/document/10015667)
+- 1.Channel-wise Early Fusion: Please run early_
+- 2.SLIC to Fine-grained Channel Contribution Assessment: Please run SLIC.py
+- 3.Saliency Sensing Tool: As shown in Figure Method pipeline, we use the [EDN](https://arxiv.org/pdf/2012.13093). Please run "SOD_tool/EDN/edn_test.py"
+- 4.Contribution-aware Fusion: We use [BBRF](https://ieeexplore.ieee.org/abstract/document/10006743) and [CAVER](https://ieeexplore.ieee.org/abstract/document/10015667). Firstly, please run  "SOD_tool/BBRF/test.py" and "SOD_tool/CAVER/main.py". Secondly, run fusion.py to get final saliency maps.
+
 ## Datasets: 
 The document contains nine available RGB-D SOD datasets: NJU2K, NLPR, SIP, STERE, SSD, LFSD, DUT, ReDWeb-S and COME15K-E. 
 - [Baidu Pan link] (https://pan.baidu.com/s/1YK_UmDA3J8jmDxT9AXKIvQ), with the code: 41eh
