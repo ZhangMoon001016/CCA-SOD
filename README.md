@@ -1,5 +1,5 @@
 # Channel-wise Contribution Assessment for RGB-D Salient Object Detection
-
+![image](https://github.com/zhangmoon1/CCA-SOD/blob/main/mehod_pipeline.pdf)
 ## Requirements
 
 ## Main-step
