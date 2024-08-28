@@ -6,7 +6,10 @@
 - pytorch
 - Opencv python
 ## Main-step
-
+- 1.channel-wise early fusion
+- 2.SLIC to fine-grained channel contribution assessment
+- 3.saliency
+- 4.contribution-aware fusion
 
 ## Datasets: 
 The document contains nine available RGB-D SOD datasets: NJU2K, NLPR, SIP, STERE, SSD, LFSD, DUT, ReDWeb-S and COME15K-E. 
