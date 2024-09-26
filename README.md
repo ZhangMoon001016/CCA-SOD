@@ -1,5 +1,5 @@
 # Channel-wise Contribution Assessment for RGB-D Salient Object Detection
-![image](https://github.com/zhangmoon1/CCA-SOD/blob/main/method_pipeline.png)
+![image](https://github.com/zhangmoon1/CCA-SOD/blob/main/method_pipeline.jpg)
 ## Requirements
 - python 3.8
 - cuda 11.6.2
